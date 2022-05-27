@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main(){
+    //single line
+
+    /*
+        double
+        line
+    */
+    int i = 2 * 8;
+    printf("hello Hell //o*/ world !!");
+    
+    
+    return 0;
+}

@@ -1,0 +1,12 @@
+hello = 5
+boys = 4
+are = 3
+you = 3
+eating = 6
+apple = 5
+hello = 5
+boys = 4
+are = 3
+you = 3
+eating = 6
+apple = 5

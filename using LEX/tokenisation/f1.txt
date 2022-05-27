@@ -1,0 +1,8 @@
+Preprocessor Directives - #include<stdio.h>
+main funtion - int main()
+delimeter - {
+keywords - return
+delimeter -  
+constant - 0
+delimeter - ;
+delimeter - }

@@ -1,0 +1,1 @@
+#include<stdio.h>intmain(){inti=2*8;printf("hello Hell //o*/ world !!");return0;}
